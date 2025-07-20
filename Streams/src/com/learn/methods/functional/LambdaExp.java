@@ -1,5 +1,5 @@
 //lambda function is also called as Arrow function
-package com;
+package com.learn.methods.functional;
 
 @FunctionalInterface
 interface L{
